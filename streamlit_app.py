@@ -1,5 +1,6 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.set_page_config(page_title="EVAT — GRU Forecast by Station", page_icon="⚡", layout="wide")
+st.title("⚡ EVAT — GRU Forecast per Cluster / Station")
 
-st.write('Hello world!')
+
