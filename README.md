@@ -1,13 +1,13 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 GRU Model Prediction
 ```
-⬆️ (Replace above with your app's name)
+This is machine learning app 
 ```
 
 Description of the app ...
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ev-charging-demand.streamlit.app/)
 
 ## GitHub Codespaces
 
